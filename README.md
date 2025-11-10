@@ -19,3 +19,5 @@ Durante o desenvolvimento, pratiquei:
 - Entrada e saída de dados com Scanner  
 - Organização de código e métodos  
 
+# Estrutura do projeto
+ O código-fonte principal está localizado na pasta **`src`**
