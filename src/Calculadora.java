@@ -8,7 +8,7 @@ public class Calculadora {
         char operador;
         boolean primeiroNumero = true;
 
-        System.out.println("=== Calculadora Contínua ===");
+        System.out.println("=== Calculadora ===");
         System.out.println("Digite operações e use '=' para ver o resultado final.");
         System.out.println("Exemplo: 5 + 3 * 2 =");
 
